@@ -1,0 +1,157 @@
+{
+  "products": [
+    {
+      "id": 111,
+      "title": "Acer Aspire 5 A515-41G",
+      "price": 134,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "availableSizes": [
+        "Acer"
+      ],
+      "style": "Black with custom print",
+      "isFreeShipping": true
+    },
+    {
+      "id": 15,
+      "title": "Acer Extensa EX2519-C313",
+      "price": 99,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "availableSizes": [
+        "Acer"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Acer Extensa 15 EX2540",
+      "price": 199,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "availableSizes": [
+        "Acer"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "ASUS TUF Gaming FX504GE-DM048",
+      "price": 123,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "availableSizes": [
+        "Asus"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Acer Extensa EX2519-C313",
+      "price": 89,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "availableSizes": [
+        "Acer"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "ASUS X507UB-EJ044",
+      "price": 58,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "availableSizes": [
+        "Asus"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Dell Inspiron 3552",
+      "price": 78,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "availableSizes": [
+        "Dell"
+      ]
+
+    },
+    {
+      "id": 7,
+      "title": "Dell Inspiron 3567",
+      "price": 94,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "availableSizes": [
+        "Dell"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Dell Inspiron 7577",
+      "price": 299,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "availableSizes": [
+        "Dell"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Dell Latitude 7370",
+      "price": 87,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "availableSizes": [
+        "Dell"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "HP Notebook 15-db0229ur",
+      "price": 399,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "availableSizes": [
+        "HP"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "HP 255 G6 (2EW01ES)",
+      "price": 43,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "availableSizes": [
+        "HP"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "HP 250 G6",
+      "price": 399,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "availableSizes": [
+        "HP"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Lenovo IdeaPad 320-15IKB",
+      "price": 12,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "availableSizes": [
+        "Lenovo"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Lenovo IdeaPad 330-15IGM",
+      "price": 65,
+      "currencyId": "USD",
+      "currencyFormat": "$",
+      "availableSizes": [
+        "Lenovo"
+      ]
+    }
+  ]
+}
